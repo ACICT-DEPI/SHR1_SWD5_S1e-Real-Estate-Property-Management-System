@@ -1,5 +1,5 @@
 # Real-Estate Property Management System
-![Homepage Screenshot](Images/2024-10-17 (5).png)
+![Homepage Screenshot](Images/2024-10-17(5).png)
 
 ## Overview
 
