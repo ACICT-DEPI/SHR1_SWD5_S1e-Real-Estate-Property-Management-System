@@ -20,7 +20,8 @@ The **Real-Estate Property Management System** is a web application designed to 
   ![Homepage Screenshot](https://github.com/HAsNaaAbdelRahman/Real-Estate-Property-Management-System/blob/c84b7dad2cc98d932d895f7f9a2a03012a01aef0/Images/2024-10-17%20(21).png)
 ![Homepage Screenshot](https://github.com/HAsNaaAbdelRahman/Real-Estate-Property-Management-System/blob/c84b7dad2cc98d932d895f7f9a2a03012a01aef0/Images/2024-10-17%20(27).png)
   
-
+## Customer
+![Homepage Screenshot](https://github.com/HAsNaaAbdelRahman/Real-Estate-Property-Management-System/blob/a61744e567d5fbb037a79cab604f07f84978db6b/Images/2024-10-17%20(30).png)
 ## Technologies Used
 
 - **Backend**: ASP.NET Core MVC
