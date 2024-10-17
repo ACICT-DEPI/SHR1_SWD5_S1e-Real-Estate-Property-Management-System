@@ -53,11 +53,12 @@ The **Real-Estate Property Management System** is a web application designed to 
 4. **Run the project**:
     - In Visual Studio, click on the “Run” button or press `F5` to start the application.
 
+
 ## Usage
 
-1. **Admin**: Admin users can add property managers, manage properties, and access all system reports.
-2. **Property Managers**: Property managers can add tenants, manage rental agreements, and handle maintenance requests.
-3. **Tenants**: Tenants can view property details, submit maintenance requests, and pay rent online.
+1. **Admin**: Admin users can add sellers, manage properties, and access all system reports.
+2. **Sellers**: Sellers can add and manage their own properties, track inquiries, and handle property listings.
+3. **Customers**: Customers can view property details, submit inquiries, and schedule property visits.
 
 
 
