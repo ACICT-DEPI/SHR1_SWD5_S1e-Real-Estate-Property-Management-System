@@ -10,7 +10,7 @@ The **Real-Estate Property Management System** is a web application designed to 
 - **Tenant Management**: Track tenant information, leases, and rental agreements.
 - **Rental Payments**: Manage rental payments, track overdue payments, and generate payment receipts.
 - **Maintenance Requests**: Tenants can submit maintenance requests which can be tracked and resolved by property managers.
-- **User Roles**: Admin, Property Managers, and Tenants with different levels of access and functionality.
+- **User Roles**: Admin, Property Agent, Customer, and Saller with different levels of access and functionality.
 - **Notifications**: Automated email notifications for rent due, maintenance request updates, and lease expirations.
 - **Reporting**: Generate reports for rental income, occupancy, and maintenance costs.
 
