@@ -16,6 +16,11 @@ The **Real-Estate Property Management System** is a web application designed to 
 - **Notifications**: Automated email notifications for rent due, maintenance request updates, and lease expirations.
 - **Reporting**: Generate reports for rental income, occupancy, and maintenance costs.
 
+  ## Admin And Saller
+  ![Homepage Screenshot](https://github.com/HAsNaaAbdelRahman/Real-Estate-Property-Management-System/blob/c84b7dad2cc98d932d895f7f9a2a03012a01aef0/Images/2024-10-17%20(21).png)
+![Homepage Screenshot](https://github.com/HAsNaaAbdelRahman/Real-Estate-Property-Management-System/blob/c84b7dad2cc98d932d895f7f9a2a03012a01aef0/Images/2024-10-17%20(27).png)
+  
+
 ## Technologies Used
 
 - **Backend**: ASP.NET Core MVC
